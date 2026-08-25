@@ -101,12 +101,4 @@ A user-friendly platform that helps individuals and groups save, invest, and acc
 
 ---
 
-## GitHub Activity
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rinyealvin&theme=tokyonight&hide_border=true)
-
-![Trophy](https://github-profile-trophy.vercel.app/?username=rinyealvin&theme=tokyonight&no-frame=true&row=1&column=7)
-
----
-
 **[Portfolio](https://rinyealvin.github.io/) · [GitHub](https://github.com/rinyealvin) · [Email](mailto:alvinrinye@gmail.com)**
