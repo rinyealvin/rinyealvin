@@ -25,7 +25,7 @@ I'm a Full-Stack Software Engineer specialising in backend engineering, API desi
 - 🏢 Currently at **Cybernaptics Ltd**, consulting for **SWAN Insurance** — building integrations with Node.js, C#, C++, .NET, React, Python, SnapLogic, and enterprise databases
 - 🛠️ Delivered production platforms including **Chamify** and **NdovuPay**
 - 🌱 Actively exploring agentic AI workflows and applying AI tools (ChatGPT, Claude) in my day-to-day engineering work
-- 💬 Comfortable working across the full stack — Java/Spring Boot and Node.js on the backend, Vue/React on the front end
+- 💬 Comfortable working across the full stack — Java/Spring Boot, Python, Next.js, .NET and Node.js on the backend, Vue/React on the front end
 - 📫 Reach me at **alvinrinye@gmail.com**
 
 ---
